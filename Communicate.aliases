@@ -1,0 +1,12 @@
+[DRB351-myRIO-08]
+DRB351-myRIO-08 = "172.16.0.1"
+
+[My Computer]
+My Computer = "10.21.17.11"
+
+[myRIO-1900]
+myRIO-1900 = "172.22.11.2"
+
+[RT myRIO Target]
+RT myRIO Target = "0.0.0.0"
+
